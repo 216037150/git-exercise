@@ -4,8 +4,22 @@ abc
 Adding security to my text file
 
 
+function sum(a, b){
+    return a + b 
+
+}
+
 function sum(a, b, c){
     return a + b + c
 }
 
+function deleteGoals(){
+    return "deleted successfully";
+}
+Add Goal: Allows users to add new goals to the tracker.
+function deleteGoals(){
+    return "deleted successfully";
+}
+
 View Goal: Displays all active goals in a list format.
+users need to be able to see all functions in a list formatgit
